@@ -1,15 +1,9 @@
-<div align="center" style="margin-bottom: 40px;">
-  <img src="Profile_AF.png" alt="Abdoulaye FAYE" 
-     width="200" 
-     height="200" 
-     style="border-radius: 50%; 
-            object-fit: cover; 
-            display: block; 
-            margin: 0 auto;">
-  <br><br>
-
-  # 🚀 ABDOULAYE FAYE
-  ## Technical Consultant | Blockchain, Robotics and AI
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <img src="profile-photo.jpg" alt="Abdoulaye FAYE" width="120" style="border-radius: 50%; margin-right: 30px; border: 3px solid #2c3e50;">
+  <div>
+    <h1>🚀 ABDOULAYE FAYE</h1>
+    <h2>Blockchain Technical Consultant | Engineer & Innovator</h2>
+  </div>
 </div>
 
 ---
