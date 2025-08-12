@@ -178,7 +178,7 @@ From strategic architecture to hands-on implementation across blockchain, AI, ro
 
 ## 📞 AVAILABILITY
 
-*Available for blockchain, Robotics and AI technical consulting focused on smart contract architecture, automated systems, and trustless platforms. Brings unique perspective combining enterprise blockchain experience, applied research, and cutting-edge AI/robotics innovation.*
+*Available for blockchain, Robotics and AI technical consulting focused on smart and trustless platforms, and automated systems. Brings unique perspective combining enterprise blockchain experience, applied research, and cutting-edge AI/robotics innovation.*
 
 ---
 
