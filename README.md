@@ -17,9 +17,9 @@
 
 ## 💡 PROFESSIONAL SUMMARY
 
-**Technical Consultant** with **10+ years** in Blockchain & Distributed Systems, Robotics & AI, and Emerging Technologies, specializing in **intelligent system and platform design and implementation**. Co-Founder & CTO with proven expertise in building scalable intelligent platforms. Innovator and Inventor with **5 granted patents**. 
+**Technical Consultant** with **10+ years** in Blockchain & Distributed Systems, Robotics & AI, and Emerging Technologies, specializing in **intelligent platform design and implementation**. Co-Founder & CTO with proven expertise in building scalable intelligent platforms. Innovator and Inventor with **5 granted patents**. 
 
-Demonstrated success in designing **trustless systems**, **automated workflows**, and **AI solutions** - directly applicable to next-generation platforms requiring both security and intelligent user experiences.
+Demonstrated success in designing **trustless platforms**, **automated systems**, and **AI solutions** - directly applicable to next-generation platforms requiring both security and intelligent user experiences.
 
 ---
 
@@ -172,8 +172,8 @@ From strategic architecture to hands-on implementation across blockchain, AI, ro
 
 ## 📞 AVAILABILITY
 
-*Available for blockchain, Robotics and AI technical consulting focused on smart and trustless platforms, and automated systems. Brings unique perspective combining enterprise blockchain experience, applied research, and cutting-edge AI/robotics innovation.*
+*Available for blockchain, Robotics and AI technical consulting focused on intelligent platform design and implementation. Brings unique perspective combining enterprise blockchain experience, applied research, and cutting-edge AI/robotics innovation.*
 
 ---
 
-**💼 Rate:** $100-120/hour | **📅 Availability:** Immediate | **🌍 Location:** Remote/Global
+**💼 Rate:** $100-120/hour | **📅 Availability:** Immediate (part-time) | **🌍 Location:** Remote/Global
