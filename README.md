@@ -1,7 +1,3 @@
----
-Abdoulaye FAYE - Technical Consultant
----
-
 <div align="center" style="margin-bottom: 40px;">
   <img src="Profile_AF.png" alt="Abdoulaye FAYE" 
      width="200" 
