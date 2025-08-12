@@ -120,7 +120,7 @@ Developed innovative inspection and diagnostic system (PREVIO) in open innovatio
   *Co-authored with Stevens Institute of Technology. Presents automated data integrity verification for decentralized storage - directly applicable to rental document management and escrow systems.*
 
 ### **🤖 Additional Technical Projects:**
- **🏠 Land Registry Management Platform :** Designed blockchain-based transfer systems with smart contract escrow and automated compliance for land registry management and real-state transaction
+ - **🏠 Land Registry Management Platform :** Designed blockchain-based transfer systems with smart contract escrow and automated compliance for land registry management and real-state transaction.
 ---
 
 ## 📋 INTELLECTUAL PROPERTY & PATENTS
