@@ -1,3 +1,7 @@
+---
+Abdoulaye FAYE - Technical Consultant
+---
+
 # 🚀 ABDOULAYE FAYE
 ## Technical Consultant | Blockchain, Robotics and AI
 
