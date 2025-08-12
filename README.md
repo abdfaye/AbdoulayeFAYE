@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <img src="profile-photo.jpg" alt="Abdoulaye FAYE" width="120" style="border-radius: 50%; margin-right: 30px; border: 3px solid #2c3e50;">
+  <img src="Profile_AF.png" alt="Abdoulaye FAYE" width="120" style="border-radius: 50%; margin-right: 30px; border: 3px solid #2c3e50;">
   <div>
     <h1>🚀 ABDOULAYE FAYE</h1>
     <h2>Blockchain Technical Consultant | Engineer & Innovator</h2>
