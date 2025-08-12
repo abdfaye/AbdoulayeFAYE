@@ -3,7 +3,7 @@ Abdoulaye FAYE - Technical Consultant
 ---
 
 <div align="center" style="margin-bottom: 40px;">
-  <img src="Profile_AF_LINKEDIN_FORMAT.png" alt="Abdoulaye FAYE" width="180" style="border-radius: 50%; border: 4px solid #ffffff; box-shadow: 0 6px 12px rgba(0,0,0,0.15);">
+  <img src="Profile_AF.png" alt="Abdoulaye FAYE" width="180" style="border-radius: 50%; border: 4px solid #ffffff; box-shadow: 0 6px 12px rgba(0,0,0,0.15);">
   <br><br>
   
   # 🚀 ABDOULAYE FAYE
