@@ -7,10 +7,11 @@
             display: block; 
             margin: 0 auto;">
   <br><br>
+
+  # 🚀 ABDOULAYE FAYE
+  ## Technical Consultant | Blockchain, Robotics and AI
 </div>
 
-# 🚀 ABDOULAYE FAYE
-## Technical Consultant | Blockchain, Robotics and AI
 ---
 
 📍 **Location:** Thiès, Sénégal  
