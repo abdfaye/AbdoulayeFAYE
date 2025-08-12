@@ -1,5 +1,5 @@
 # 🚀 ABDOULAYE FAYE
-## Blockchain Technical Consultant | Engineer & Innovator
+## Technical Consultant | Blockchain, Robotics and AI
 
 ---
 
@@ -12,9 +12,9 @@
 
 ## 💡 PROFESSIONAL SUMMARY
 
-**Blockchain Technical Consultant** with **8+ years** in distributed systems, AI, and emerging technologies, specializing in **smart contract architecture**, **automated payment systems**, and **intelligent agent development**. Co-Founder & CTO with proven expertise in building scalable blockchain platforms, AI-powered avatar systems, and securing **5 blockchain-related patents**. 
+**Technical Consultant** with **10+ years** in Blockchain & Distributed Systems, Robotics & AI, and Emerging Technologies, specializing in **intelligent system and platform design and implementation**. Co-Founder & CTO with proven expertise in building scalable intelligent platforms and securing **5 granted patents**. 
 
-Demonstrated success in designing **trustless transaction systems**, **automated workflows**, and **conversational AI solutions** - directly applicable to next-generation real estate platforms requiring both blockchain security and intelligent user experiences.
+Demonstrated success in designing **trustless systems**, **automated workflows**, and **AI solutions** - directly applicable to next-generation platforms requiring both security and intelligent user experiences.
 
 ---
 
@@ -37,12 +37,9 @@ Demonstrated success in designing **trustless transaction systems**, **automated
 - **Smart Infrastructure & Connected Systems**
 
 ### **💻 Programming & Development**
+- **C/C++, C#, Python, JavaScript**
 - **Solidity, Smart Contract Development**
-- **Python, C/C++, JavaScript, QML**
-- **PyTorch, Machine Learning**
 - **Robot Operating System (ROS)**
-- **Qt Framework, Embedded Systems**
-- **IoT Integration & Connected Devices**
 
 ### **🎯 Consulting & Innovation**
 - **Applied Research & Technology Evaluation**
@@ -61,7 +58,7 @@ Demonstrated success in designing **trustless transaction systems**, **automated
 Leading technical innovation in autonomous robotics, AI, and intelligent systems. Building comprehensive **Robotics-as-a-Service (RaaS)** platform serving healthcare, hospitality, logistics, and smart city infrastructure.
 
 **🏆 Key Achievements:**
-- **🤖 Autonomous Robotics Platform:** Architected "Sito-É" service robot with flawless autonomous navigation and remote control capabilities for healthcare, hospitality, retail, and delivery sectors
+- **🤖 Autonomous Robotics Platform:** Architected service robots with flawless autonomous navigation and remote control capabilities for healthcare, hospitality, retail, and delivery sectors
 - **🌐 IoT-Integrated Systems:** Designed connected infrastructure with real-time sensor fusion, data analysis, and environmental control for smart buildings and cities
 - **👥 AI Agents & Avatars:** Built intelligent virtual assistants for hospitality, education, and retail with conversational AI and automated workflow capabilities
 - **📊 Fleet Management Solutions:** Developed scalable RaaS platform for autonomous robot fleet coordination, reducing operational costs and improving efficiency
@@ -126,10 +123,7 @@ Developed innovative inspection and diagnostic system (PREVIO) in open innovatio
   *Co-authored with Stevens Institute of Technology. Presents automated data integrity verification for decentralized storage - directly applicable to rental document management and escrow systems.*
 
 ### **🤖 Additional Technical Projects:**
-- **🚁 Autonomous Service Robotics:** Leading development of "Sito-É" robot platform with AI-powered navigation and IoT integration
-- **🏢 Smart Infrastructure Systems:** Built connected AI systems for real-time monitoring of buildings, campuses, and urban environments
-- **🏭 Cross-Industry RaaS Platform:** Deployed robotics solutions across healthcare, hospitality, logistics, and smart city sectors
-
+ **🏠 Land Registry Management Platform :** Designed blockchain-based transfer systems with smart contract escrow and automated compliance for land registry management and real-state transaction
 ---
 
 ## 📋 INTELLECTUAL PROPERTY & PATENTS
@@ -150,13 +144,6 @@ Developed innovative inspection and diagnostic system (PREVIO) in open innovatio
 **🌍 Intensive Cooperative Laboratory Study Program** | Tohoku University (2014)  
 *Robotics*
 
-**📜 Professional Certifications:**
-- MIT 6.00.1x: Introduction to Computer Science and Programming Using Python
-- MIT EECS.6.002x: Circuits and Electronics
-
-**🏆 Honors & Recognition:**
-- MEETAfrica Program Alumni
-
 ---
 
 ## 🌍 LANGUAGES
@@ -170,16 +157,16 @@ Developed innovative inspection and diagnostic system (PREVIO) in open innovatio
 
 ---
 
-## 🌟 KEY DIFFERENTIATORS FOR REAL ESTATE BLOCKCHAIN
+## 🌟 KEY DIFFERENTIATORS
 
 ### **🔥 Cross-Domain Innovation**
-Unique combination of enterprise blockchain expertise (Accenture), autonomous robotics & AI leadership (CAYTU), and academic research depth (Stevens Institute)
+Unique combination of enterprise blockchain expertise (Accenture), autonomous robotics & AI leadership (CAYTU), and academic research depth (Accenture and Tohoku University)
 
 ### **🛡️ Advanced Privacy & Identity Expertise**
-Deep specialization in decentralized identity and privacy-enhancing technologies - critical for rental platforms handling sensitive tenant/landlord data
+Deep specialization in decentralized identity and privacy-enhancing technologies - critical for platforms handling sensitive data
 
 ### **📋 Patent-Protected Innovation**
-5 blockchain patents including distributed payments, decentralized identity, and privacy-preserving storage systems
+5 patents including distributed payments, decentralized identity, and privacy-preserving storage systems
 
 ### **🤖 Autonomous Systems Architecture**
 Proven experience designing intelligent, self-managing systems from robotics fleets to blockchain networks - perfect for automated rental platforms
@@ -194,7 +181,7 @@ From strategic architecture to hands-on implementation across blockchain, AI, ro
 
 ## 📞 AVAILABILITY
 
-*Available for blockchain technical consulting focused on smart contract architecture, automated payment systems, and trustless rental agreement platforms. Brings unique perspective combining enterprise blockchain experience, academic research, and cutting-edge AI/robotics innovation.*
+*Available for blockchain, Robotics and Ai technical consulting focused on smart contract architecture, automated payment systems, and trustless platforms. Brings unique perspective combining enterprise blockchain experience, academic research, and cutting-edge AI/robotics innovation.*
 
 ---
 
