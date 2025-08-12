@@ -3,7 +3,7 @@ Abdoulaye FAYE - Technical Consultant
 ---
 
 <div align="center">
-  <img src="profile-photo.jpg" alt="Abdoulaye FAYE" width="200" style="border-radius: 10px;">
+  <img src="Profile_AF_LINKEDIN_FORMAT.png" alt="Abdoulaye FAYE" width="200" style="border-radius: 10px;">
   
   # 🚀 ABDOULAYE FAYE
   ## Technical Consultant | Blockchain, Robotics and AI
