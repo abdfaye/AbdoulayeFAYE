@@ -2,8 +2,9 @@
 Abdoulaye FAYE - Technical Consultant
 ---
 
-<div align="center">
-  <img src="Profile_AF_LINKEDIN_FORMAT.png" alt="Abdoulaye FAYE" width="200" style="border-radius: 50%; float: right; margin: 0 0 20px 20px; border: 3px solid #3498db;">
+<div align="center" style="margin-bottom: 40px;">
+  <img src="Profile_AF_LINKEDIN_FORMAT.png" alt="Abdoulaye FAYE" width="180" style="border-radius: 50%; border: 4px solid #ffffff; box-shadow: 0 6px 12px rgba(0,0,0,0.15);">
+  <br><br>
   
   # 🚀 ABDOULAYE FAYE
   ## Technical Consultant | Blockchain, Robotics and AI
