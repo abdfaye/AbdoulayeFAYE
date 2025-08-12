@@ -157,7 +157,7 @@ Developed innovative inspection and diagnostic system (PREVIO) in open innovatio
 ## 🌟 KEY DIFFERENTIATORS
 
 ### **🔥 Cross-Domain Innovation**
-Unique combination of enterprise blockchain expertise (Accenture), autonomous robotics & AI leadership (CAYTU), and academic research depth (Accenture and Tohoku University)
+Unique combination of enterprise blockchain expertise (Accenture), autonomous robotics & AI leadership (CAYTU), and applied research depth (Accenture and Tohoku University)
 
 ### **🛡️ Advanced Privacy & Identity Expertise**
 Deep specialization in decentralized identity and privacy-enhancing technologies - critical for platforms handling sensitive data
@@ -166,10 +166,10 @@ Deep specialization in decentralized identity and privacy-enhancing technologies
 5 patents including distributed payments, decentralized identity, and privacy-preserving storage systems
 
 ### **🤖 Autonomous Systems Architecture**
-Proven experience designing intelligent, self-managing systems from robotics fleets to blockchain networks - perfect for automated rental platforms
+Proven experience designing intelligent, self-managing systems from robotics fleets to blockchain networks - perfect for automated platforms
 
 ### **🏠 IoT & Connected Infrastructure**
-Expertise in real-time sensor integration and smart building management - directly applicable to property management and IoT-enabled rental units
+Expertise in real-time sensor integration and smart asset management
 
 ### **🎯 End-to-End Technical Leadership**
 From strategic architecture to hands-on implementation across blockchain, AI, robotics, and IoT domains
@@ -178,7 +178,7 @@ From strategic architecture to hands-on implementation across blockchain, AI, ro
 
 ## 📞 AVAILABILITY
 
-*Available for blockchain, Robotics and Ai technical consulting focused on smart contract architecture, automated payment systems, and trustless platforms. Brings unique perspective combining enterprise blockchain experience, academic research, and cutting-edge AI/robotics innovation.*
+*Available for blockchain, Robotics and AI technical consulting focused on smart contract architecture, automated systems, and trustless platforms. Brings unique perspective combining enterprise blockchain experience, applied research, and cutting-edge AI/robotics innovation.*
 
 ---
 
