@@ -23,7 +23,7 @@
 
 ## 💡 PROFESSIONAL SUMMARY
 
-**Technical Consultant** with **10+ years** in Blockchain & Distributed Systems, Robotics & AI, and Emerging Technologies, specializing in **intelligent system and platform design and implementation**. Co-Founder & CTO with proven expertise in building scalable intelligent platforms and securing **5 granted patents**. 
+**Technical Consultant** with **10+ years** in Blockchain & Distributed Systems, Robotics & AI, and Emerging Technologies, specializing in **intelligent system and platform design and implementation**. Co-Founder & CTO with proven expertise in building scalable intelligent platforms. Innovator and Inventor with **5 granted patents**. 
 
 Demonstrated success in designing **trustless systems**, **automated workflows**, and **AI solutions** - directly applicable to next-generation platforms requiring both security and intelligent user experiences.
 
