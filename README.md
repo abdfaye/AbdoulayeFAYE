@@ -97,7 +97,7 @@ Led blockchain and emerging technology research initiatives, evaluating and impl
 - **🏗️ Next-Generation Platform Architecture:** Architected cutting-edge blockchain systems and distributed platforms for Fortune 500 companies across multiple industries
 - **📚 Applied Research Leadership:** Conducted pioneering research on distributed systems, publishing "Audita" framework for decentralized storage with privacy guarantees
 - **📋 Patent Portfolio Development:** Secured 5 blockchain-related patents including distributed transaction processing, decentralized identity, and privacy-preserving systems
-- **🤝 Enterprise Consulting Excellence:** Translated complex blockchain and privacy technologies into actionable business strategies for financial services, healthcare, and real estate sectors
+- **🤝 Enterprise Consulting Excellence:** Translated complex blockchain and privacy technologies into actionable business strategies across multiple industries
 
 ---
 
