@@ -90,20 +90,6 @@ Led blockchain and emerging technology research initiatives, evaluating and impl
 
 ---
 
-### **💼 Freelance Blockchain Consultant**
-**2021 - Present (4+ years) | Remote**
-
-Providing specialized blockchain consulting services to startups and enterprises, focusing on payment systems, smart contracts, and decentralized application architecture.
-
-**🚀 Key Projects:**
-- **💰 Smart Contract Development:** Built automated rental payment systems, escrow contracts, and multi-party agreement protocols in Solidity
-- **🏠 Rental Platform Architecture:** Designed blockchain-based transfer systems with smart contract escrow and automated compliance
-- **💸 Payment System Innovation:** Developed distributed transaction processing solutions for automated settlements
-- **🌍 Cross-border Solutions:** Implemented blockchain interoperability frameworks for global payment systems
-- **🏢 Enterprise Integration:** Consulted on blockchain adoption strategies for real estate and fintech clients
-
----
-
 ### **🔬 Research & Innovation Engineer | ENEDIS**
 **February 2016 - August 2016 (7 months) | France**
 
