@@ -170,9 +170,8 @@ From strategic architecture to hands-on implementation across blockchain, AI, ro
 
 ---
 
-## 📞 AVAILABILITY
-
-*Available for blockchain, Robotics and AI technical consulting focused on intelligent platform design and implementation. Brings unique perspective combining enterprise blockchain experience, applied research, and cutting-edge AI/robotics innovation.*
+## 🚀 Ready to Transform Your Platform
+Available for immediate engagement to architect next-generation platforms that combine security, privacy, and intelligent features.
 
 ---
 
