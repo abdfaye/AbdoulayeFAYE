@@ -2,7 +2,7 @@
   <img src="Profile_AF.png" alt="Abdoulaye FAYE" width="120" style="border-radius: 50%; margin-right: 30px; border: 3px solid #2c3e50;">
   <div>
     <h1>🚀 ABDOULAYE FAYE</h1>
-    <h2>Blockchain Technical Consultant | Engineer & Innovator</h2>
+    <h2>Technical Consultant | Blockchain, Robotics and AI</h2>
   </div>
 </div>
 
