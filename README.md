@@ -119,11 +119,13 @@ Developed innovative inspection and diagnostic system (PREVIO) in open innovatio
 
 ## 📋 INTELLECTUAL PROPERTY & PATENTS
 
-1. **🔗 "Cryptologic blockchain interoperability membership system"** - Cross-chain identity and access management with privacy features
-2. **💰 "Distributed transaction processing"** ⭐ - Automated payment systems & settlement mechanisms *(Perfect for rental payments)*
-3. **🤖 "Decentralized Robot Cooperation Platform"** - Multi-party coordination without intermediaries using distributed protocols
-4. **📁 "Cryptologic blockchain-based off-chain storage verification"** - Privacy-preserving document storage for contracts and agreements
-5. **🎤 "Utilizing voice biometrics to generate secure digital identity"** - Enhanced decentralized identity with biometric authentication
+## 📋 INTELLECTUAL PROPERTY & PATENTS
+
+- **🔗 ["Cryptologic blockchain interoperability membership system"](https://patents.google.com/patent/US20200076613A1)** - Cross-chain identity and access management with privacy features
+- **💰 ["Distributed transaction processing"](https://patents.google.com/patent/US20200074464A1)** ⭐ - Automated payment systems & settlement mechanisms *(Perfect for rental platforms)*
+- **🤖 ["Decentralized Robot Cooperation Platform"](https://patents.google.com/patent/US20210134195A1)** - Multi-party coordination without intermediaries using distributed protocols
+- **📁 ["Cryptologic blockchain-based off-chain storage verification"](https://patents.google.com/patent/US20200076612A1)** - Privacy-preserving document storage for contracts and agreements
+- **🎤 ["Utilizing voice biometrics to generate secure digital identity"](https://patents.google.com/patent/US20200076611A1)** - Enhanced decentralized identity with biometric authentication
 
 ---
 
