@@ -8,7 +8,7 @@
 
 ---
 
-📍 **Location:** Thiès, Sénégal  
+📍 **Location:** Thies, Senegal  
 📧 **Email:** a-faye@hotmail.fr  
 🔗 **LinkedIn:** [linkedin.com/in/abdfaye](https://linkedin.com/in/abdfaye)  
 💻 **GitHub:** [github.com/abdfaye](https://github.com/abdfaye)  
@@ -17,9 +17,9 @@
 
 ## 💡 PROFESSIONAL SUMMARY
 
-**Technical Consultant** with **10+ years** in Blockchain & Distributed Systems, Robotics & AI, and Emerging Technologies, specializing in **intelligent platform design and implementation**. Co-Founder & CTO with proven expertise in building scalable intelligent platforms. Innovator and Inventor with **5 granted patents**. 
+**Technical Consultant** with **10+ years** in Blockchain & Distributed Systems, Robotics & AI, and Emerging Technologies, specializing in **next-generation platform design and implementation**. Co-Founder & CTO with proven expertise in building scalable intelligent platforms. Innovator and Inventor with **5 granted patents**. 
 
-Demonstrated success in designing **trustless platforms**, **automated systems**, and **AI solutions** - directly applicable to next-generation platforms requiring both security and intelligent user experiences.
+Demonstrated success in designing **decentralized platforms**, **automated systems**, and **AI solutions** - directly applicable to next-generation platforms requiring both security and intelligent features.
 
 ---
 
@@ -41,11 +41,6 @@ Demonstrated success in designing **trustless platforms**, **automated systems**
 - **Conversational AI & Natural Language Processing**
 - **Smart Infrastructure & Connected Systems**
 
-### **💻 Programming & Development**
-- **C/C++, C#, Python, JavaScript**
-- **Solidity, Smart Contract Development**
-- **Robot Operating System (ROS)**
-
 ### **🎯 Consulting & Innovation**
 - **Applied Research & Technology Evaluation**
 - **Solution Design & Architecture**
@@ -58,7 +53,7 @@ Demonstrated success in designing **trustless platforms**, **automated systems**
 ## 💼 PROFESSIONAL EXPERIENCE
 
 ### **🚀 Co-Founder & CTO | CAYTU**
-**July 2021 - Present (4+ years) | Sénégal**
+**July 2021 - Present (4+ years) | Senegal**
 
 Leading technical innovation in autonomous robotics, AI, and intelligent systems. Building comprehensive **Robotics-as-a-Service (RaaS)** platform serving healthcare, hospitality, logistics, and smart city infrastructure.
 
@@ -68,7 +63,7 @@ Leading technical innovation in autonomous robotics, AI, and intelligent systems
 - **👥 AI Agents & Avatars:** Built intelligent virtual assistants for hospitality, education, and retail with conversational AI and automated workflow capabilities
 - **📊 Fleet Management Solutions:** Developed scalable RaaS platform for autonomous robot fleet coordination, reducing operational costs and improving efficiency
 - **🏢 Smart Infrastructure:** Created AI-powered systems for real-time monitoring and control of buildings, campuses, airports, and urban environments
-- **🌍 Cross-Industry Deployment:** Successfully implemented solutions across logistics, hospitality, retail, and smart city infrastructure
+- **🌍 Cross-Industry Deployment:** Successfully implemented solutions across logistics, hospitality, healthcare, and smart city infrastructure
 
 ---
 
@@ -81,14 +76,13 @@ Led blockchain and emerging technology research initiatives, evaluating and impl
 - **🔐 Decentralized Identity & Self-Sovereign Identity (SSI)**
 - **🛡️ Privacy Enhancing Technologies & Zero-Knowledge Proofs**
 - **💎 Smart Contract Development & Solidity Programming**
-- **🏗️ Next-Generation Blockchain Platform Architecture**
-- **💰 Automated Payment Systems & Escrow Solutions**
+- **🏗️ Next-Generation Platform Architecture**
 - **🔒 Cryptographic Protocols & Secure Multi-Party Computation**
 
 **🏆 Key Responsibilities & Achievements:**
 - **🆔 Decentralized Identity Systems:** Led development of blockchain-based identity solutions for enterprise clients, focusing on self-sovereign identity and privacy-preserving authentication
 - **🔒 Privacy Enhancing Technologies:** Designed and implemented advanced cryptographic protocols for data privacy, including zero-knowledge proofs and secure multi-party computation
-- **🏗️ Next-Generation Platform Architecture:** Architected cutting-edge blockchain systems and distributed platforms for Fortune 500 companies across multiple industries
+- **🏗️ Next-Generation Platform Architecture:** Architected cutting-edge blockchain systems and distributed platforms across multiple industries
 - **📚 Applied Research Leadership:** Conducted pioneering research on distributed systems, publishing "Audita" framework for decentralized storage with privacy guarantees
 - **📋 Patent Portfolio Development:** Secured 5 blockchain-related patents including distributed transaction processing, decentralized identity, and privacy-preserving systems
 - **🤝 Enterprise Consulting Excellence:** Translated complex blockchain and privacy technologies into actionable business strategies across multiple industries
@@ -111,13 +105,11 @@ Developed innovative inspection and diagnostic system (PREVIO) in open innovatio
 
 ### **🔗 Blockchain & Distributed Systems:**
 - **📄 "Audita: A Blockchain-based Auditing Framework for Off-chain Storage"** (2019) - arXiv:1911.08515  
-  *Co-authored with Stevens Institute of Technology. Presents automated data integrity verification for decentralized storage - directly applicable to rental document management and escrow systems.*
+  *Co-authored with Stevens Institute of Technology. Presents automated data integrity verification for decentralized storage - directly applicable to document management and escrow systems.*
 
 ### **🤖 Additional Technical Projects:**
  - **🏠 Land Registry Management Platform :** Designed blockchain-based transfer systems with smart contract escrow and automated compliance for land registry management and real-state transaction.
 ---
-
-## 📋 INTELLECTUAL PROPERTY & PATENTS
 
 ## 📋 INTELLECTUAL PROPERTY & PATENTS
 
